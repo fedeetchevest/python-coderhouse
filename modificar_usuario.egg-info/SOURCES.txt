@@ -1,0 +1,8 @@
+setup.py
+modificar_usuario.egg-info/PKG-INFO
+modificar_usuario.egg-info/SOURCES.txt
+modificar_usuario.egg-info/dependency_links.txt
+modificar_usuario.egg-info/top_level.txt
+paquete_segunda_entrega/__init__.py
+paquete_segunda_entrega/main.py
+paquete_segunda_entrega/usuario.py
